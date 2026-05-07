@@ -59,12 +59,6 @@ At a high level:
 
 ---
 
-## Architecture Overview
-
-<p align="center">
-  <img src="ui/arch_diagram.png" alt="Multi-Agent Supply Chain Management System Architecture" width="800"/>
-</p>
-
 ## Getting Started
 
 ### 1. Set up environment
